@@ -1,4 +1,4 @@
-- 👋 hola sou Tatnai Uciel L. ingeniero mecatrónica -> @ucielLL
+- 👋 hola soy Tatnai Uciel L. ingeniero mecatrónica -> @ucielLL
 - 👀  Me apasiona le mundo de la electrónica, los sistemas IOT y la programación
 - 🌱 actualmente estoy aprendiendo xamarin y kotlin para Android
 - 💞️ Me gustaría colaborar en proyectos de IOT y programación para móvil 
